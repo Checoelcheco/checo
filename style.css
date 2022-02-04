@@ -1,0 +1,13 @@
+body{
+ color:white;
+ background-color:dimgray; 
+ text-align:center;
+}
+#boton1{
+    border-color: whitesmoke;
+    color: gray;
+    width:200px;
+    height: 200px;
+    font-size:50px;
+    
+}
